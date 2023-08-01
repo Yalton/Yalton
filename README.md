@@ -5,7 +5,7 @@
 
 Hobbyist and professional SWE 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Yalton&show_icons=true)
+<-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Yalton&show_icons=true) -->
 
 ## 📊 My GitHub Stats
 

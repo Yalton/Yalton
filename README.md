@@ -1,6 +1,8 @@
 # Welcome to my github
 --- 
 
+![Gif](https://misc.billbert.co/gifs/1614677945011.GIF)
+
 Hobbyist and professional SWE 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Yalton&show_icons=true)
@@ -11,4 +13,4 @@ Hobbyist and professional SWE
 
 ## 🎞️ Let's connect
 
-![Alt Text](url_to_your_gif.gif)
+[Other Links](http://bit.ly/m/yalt)

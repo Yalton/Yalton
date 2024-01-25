@@ -9,7 +9,7 @@ Hobbyist and professional SWE
 
 ## 📊 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yalton&layout=compact)](https://github.com/yourUsername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yalton&layout=compact)](https://github.com/Yalton/github-readme-stats)
 
 ## 🎞️ Let's connect
 

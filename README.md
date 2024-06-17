@@ -38,6 +38,4 @@ I write code; here you will find some, but not all of it. My interests lie in au
 <a href="https://daltonbailey.com" target="_blank"><img src="./assets/logo.png" alt="BLog" width="30" height="30"/></a>
 </p>
 
-## <img src="./assets/logo.png" alt="Banner GIF" width="4%"> Find out more about me <img src="./assets/loader.gif" alt="Banner GIF" width="4%">
 
-[<img src="./assets/loader.gif" alt="Banner GIF" width="4%">](http://bit.ly/m/yalt)
